@@ -9,6 +9,7 @@ public class Main {
         String fsad = "asdas";
 
         int asd = 1;
+        int asd2 = 1;
 
     }
 }
