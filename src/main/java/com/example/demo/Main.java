@@ -7,7 +7,6 @@ public class Main {
         String asdas = "asdas";
         String das = "asdas";
         String fsad = "asdas";
-        String ads= "asdas";
 
     }
 }
