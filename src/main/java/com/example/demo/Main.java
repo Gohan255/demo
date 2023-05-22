@@ -8,5 +8,7 @@ public class Main {
         String das = "asdas";
         String fsad = "asdas";
 
+        int asd = 1;
+
     }
 }
