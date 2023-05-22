@@ -5,6 +5,9 @@ public class Main {
 
         String as = "asdas";
         String ads= "asdas";
+        String asdas = "asdas";
+        String das = "asdas";
+        String fsad = "asdas";
 
     }
 }
