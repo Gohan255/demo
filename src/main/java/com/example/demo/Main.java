@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         String as = "asdas";
+        String ads= "asdas";
 
     }
 }
