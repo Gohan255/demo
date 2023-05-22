@@ -9,5 +9,9 @@ public class Main {
         String fsad = "asdas";
         String ads= "asdas";
 
+
+        String ads1 = "asdas";
+        String ads2 = "asdas";
+
     }
 }
